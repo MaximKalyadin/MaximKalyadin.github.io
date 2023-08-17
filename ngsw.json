@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1692300901926,
+  "timestamp": 1692301567799,
   "appData": {
     "version": "0.0.0"
   },
@@ -16,7 +16,7 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.dbb4d4514a49df4e.js",
+        "/main.1f7f5f3fd2a9f68f.js",
         "/manifest.webmanifest",
         "/polyfills.499bf1a0a255fd80.js",
         "/runtime.0ff8b5c7db2b67dc.js",
@@ -1907,9 +1907,9 @@
     "/assets/taiga-ui/icons/tuiIconZoomOut.svg": "f888a1c4da85c9954edb33a319f7936b1edb2ce8",
     "/assets/taiga-ui/icons/tuiIconZoomOutLarge.svg": "d613bf626b2bce958ebf71e3c6cf0d2ed0b8a518",
     "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/index.html": "14720916fef7d2bb1eb19cf72a09ab67ca94724d",
-    "/main.dbb4d4514a49df4e.js": "42625c5ee9a209b40d7964cfb3de255a5c97b22f",
-    "/manifest.webmanifest": "42b9404e4d0b344c1adb6f2cbcabcbc5f515ea40",
+    "/index.html": "804c3852259c06af7d362f694d1e5bd929810ca1",
+    "/main.1f7f5f3fd2a9f68f.js": "8a4ba2a04fb0a97548bbe52429269769685077ed",
+    "/manifest.webmanifest": "1192253436be87304823d12267ac34d4c691bf0b",
     "/polyfills.499bf1a0a255fd80.js": "2e2c30086567b68293bf50d0114d9b35fe1502f5",
     "/runtime.0ff8b5c7db2b67dc.js": "b35a10b43a2272b93967806123e25d85b11ab64f",
     "/styles.550b03c0a0d48755.css": "86b0482c845d39f87089a9f7f7cf7de90bb01bfe"
