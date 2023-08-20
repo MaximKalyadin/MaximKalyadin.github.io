@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1692394903906,
+  "timestamp": 1692535656053,
   "appData": {
     "version": "0.0.0"
   },
@@ -14,13 +14,13 @@
         "ignoreVary": true
       },
       "urls": [
-        "/991.7e0f577bbf3b7246.js",
+        "/991.6efcd9cf1bdb9d64.js",
         "/favicon.ico",
         "/index.html",
-        "/main.bc0c17ec30e0f50d.js",
+        "/main.162cbc5463eb2dfd.js",
         "/manifest.webmanifest",
         "/polyfills.8a12b47d9a12767f.js",
-        "/runtime.dd3d5cb9a10f1ff8.js",
+        "/runtime.05f344020de94130.js",
         "/styles.550b03c0a0d48755.css"
       ],
       "patterns": []
@@ -974,7 +974,7 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "/991.7e0f577bbf3b7246.js": "6fedc8cbf3282e598e03699178c3e9acc54b0d29",
+    "/991.6efcd9cf1bdb9d64.js": "487860219de70eac7248728e8e7f900e154dbf14",
     "/assets/icons/icon-128x128.png": "b1f06c7d714abb4a0cc4d1f7c954feb26826e4c4",
     "/assets/icons/icon-144x144.png": "96a0d629765c1bc85d9263c6bc83094ca776d267",
     "/assets/icons/icon-152x152.png": "b1fbbee3902eb96a7658e3bb006f31f78ca5a44c",
@@ -1911,11 +1911,11 @@
     "/assets/taiga-ui/icons/tuiIconZoomOut.svg": "f888a1c4da85c9954edb33a319f7936b1edb2ce8",
     "/assets/taiga-ui/icons/tuiIconZoomOutLarge.svg": "d613bf626b2bce958ebf71e3c6cf0d2ed0b8a518",
     "/favicon.ico": "07ad4fba2bc0687b742e2d8f4c826e9e711bfc56",
-    "/index.html": "600be9e1b2e7b707bd6412fc12dff07b94132d2b",
-    "/main.bc0c17ec30e0f50d.js": "e618edbcd71f4f87ad6628543762a93cf191fa5e",
+    "/index.html": "ad335da86a31f8fa336ace307a460dc73b0911b4",
+    "/main.162cbc5463eb2dfd.js": "28d674fd494b5fd8779a316ffdfcea5b8c9fb503",
     "/manifest.webmanifest": "10176fc83123114b960ea0589ff908f31717bd68",
     "/polyfills.8a12b47d9a12767f.js": "50a640bfb053e19ce40d38bd3e19f55c3a094998",
-    "/runtime.dd3d5cb9a10f1ff8.js": "8f83d258640f80c24fb17787245fd3a231057952",
+    "/runtime.05f344020de94130.js": "63e856d88e2426fd8503d79d8bc4a1a98aa93f76",
     "/styles.550b03c0a0d48755.css": "86b0482c845d39f87089a9f7f7cf7de90bb01bfe"
   },
   "navigationUrls": [
