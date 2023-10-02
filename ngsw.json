@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1696226131516,
+  "timestamp": 1696247852672,
   "appData": {
     "version": "0.0.0"
   },
@@ -14,16 +14,16 @@
         "ignoreVary": true
       },
       "urls": [
+        "/33.8dc674e32cde240d.js",
         "/412.7d6bc97605cc6323.js",
-        "/547.6e10d186146b4ce0.js",
         "/common.f3754eacd8b0c989.js",
         "/favicon.ico",
         "/index.html",
-        "/main.95f8a5fd9fe22be8.js",
+        "/main.15213a1f6fdee3b5.js",
         "/manifest.webmanifest",
         "/polyfills.8a12b47d9a12767f.js",
-        "/runtime.c55435b251ce6f69.js",
-        "/styles.68321c5b24e9887f.css"
+        "/runtime.08de2b1dac1bbf18.js",
+        "/styles.a4d53493240ba838.css"
       ],
       "patterns": []
     },
@@ -979,8 +979,8 @@
   ],
   "dataGroups": [],
   "hashTable": {
+    "/33.8dc674e32cde240d.js": "637418c5ab4851beb226100da407e2631e957e91",
     "/412.7d6bc97605cc6323.js": "353813da923b8f3e6360f2e3316cfe7245aa1374",
-    "/547.6e10d186146b4ce0.js": "d43ad020892b18c16e54030a4528f2945198d934",
     "/assets/icons/icon-128x128.png": "b1f06c7d714abb4a0cc4d1f7c954feb26826e4c4",
     "/assets/icons/icon-144x144.png": "96a0d629765c1bc85d9263c6bc83094ca776d267",
     "/assets/icons/icon-152x152.png": "b1fbbee3902eb96a7658e3bb006f31f78ca5a44c",
@@ -1921,12 +1921,12 @@
     "/assets/taiga-ui/icons/tuiIconZoomOutLarge.svg": "06c40e5d48c490f01ed17cb62c30bf99f093c385",
     "/common.f3754eacd8b0c989.js": "fada989fcebcaa28ac3d7d1083b8c61cb380f99b",
     "/favicon.ico": "07ad4fba2bc0687b742e2d8f4c826e9e711bfc56",
-    "/index.html": "c166bdbcb332d78b16fdccd81f8e5546f5b35d4b",
-    "/main.95f8a5fd9fe22be8.js": "531ce41520e054167216aeaff0441ca1a0cc7532",
+    "/index.html": "4f58c16ab5ed0e13665560c53c8716204d9359da",
+    "/main.15213a1f6fdee3b5.js": "21f64b8a1cfa12c83e099af3a70182fc7297652a",
     "/manifest.webmanifest": "10176fc83123114b960ea0589ff908f31717bd68",
     "/polyfills.8a12b47d9a12767f.js": "50a640bfb053e19ce40d38bd3e19f55c3a094998",
-    "/runtime.c55435b251ce6f69.js": "c64d75c6b3a1b8ef8588381b150627c7eafdfe5a",
-    "/styles.68321c5b24e9887f.css": "570195359ac2825a6be82fb799d9aeb1abbb7abd"
+    "/runtime.08de2b1dac1bbf18.js": "6f06909e8c2e202afcce9311900a32e4aa084be0",
+    "/styles.a4d53493240ba838.css": "db600974d99c0dc52c27b249da1747466753d59e"
   },
   "navigationUrls": [
     {
