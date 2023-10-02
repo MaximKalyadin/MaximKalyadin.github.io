@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1696247852672,
+  "timestamp": 1696249704173,
   "appData": {
     "version": "0.0.0"
   },
@@ -14,15 +14,15 @@
         "ignoreVary": true
       },
       "urls": [
-        "/33.8dc674e32cde240d.js",
+        "/33.b109fbce68656f68.js",
         "/412.7d6bc97605cc6323.js",
         "/common.f3754eacd8b0c989.js",
         "/favicon.ico",
         "/index.html",
-        "/main.15213a1f6fdee3b5.js",
+        "/main.8c520667af793ac0.js",
         "/manifest.webmanifest",
         "/polyfills.8a12b47d9a12767f.js",
-        "/runtime.08de2b1dac1bbf18.js",
+        "/runtime.eb487bfebec7f852.js",
         "/styles.a4d53493240ba838.css"
       ],
       "patterns": []
@@ -979,7 +979,7 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "/33.8dc674e32cde240d.js": "637418c5ab4851beb226100da407e2631e957e91",
+    "/33.b109fbce68656f68.js": "69f52aa8638710f8c81e30675a7a0556d2349cf3",
     "/412.7d6bc97605cc6323.js": "353813da923b8f3e6360f2e3316cfe7245aa1374",
     "/assets/icons/icon-128x128.png": "b1f06c7d714abb4a0cc4d1f7c954feb26826e4c4",
     "/assets/icons/icon-144x144.png": "96a0d629765c1bc85d9263c6bc83094ca776d267",
@@ -1921,11 +1921,11 @@
     "/assets/taiga-ui/icons/tuiIconZoomOutLarge.svg": "06c40e5d48c490f01ed17cb62c30bf99f093c385",
     "/common.f3754eacd8b0c989.js": "fada989fcebcaa28ac3d7d1083b8c61cb380f99b",
     "/favicon.ico": "07ad4fba2bc0687b742e2d8f4c826e9e711bfc56",
-    "/index.html": "4f58c16ab5ed0e13665560c53c8716204d9359da",
-    "/main.15213a1f6fdee3b5.js": "21f64b8a1cfa12c83e099af3a70182fc7297652a",
+    "/index.html": "be2d02678b3287324f43fcf94fac85a075698a12",
+    "/main.8c520667af793ac0.js": "cdc0890bddce4ded3ca2b28d477fe995b98f1af6",
     "/manifest.webmanifest": "10176fc83123114b960ea0589ff908f31717bd68",
     "/polyfills.8a12b47d9a12767f.js": "50a640bfb053e19ce40d38bd3e19f55c3a094998",
-    "/runtime.08de2b1dac1bbf18.js": "6f06909e8c2e202afcce9311900a32e4aa084be0",
+    "/runtime.eb487bfebec7f852.js": "5dbfce1f77db850955dcca4723a3e2042b491e3c",
     "/styles.a4d53493240ba838.css": "db600974d99c0dc52c27b249da1747466753d59e"
   },
   "navigationUrls": [
